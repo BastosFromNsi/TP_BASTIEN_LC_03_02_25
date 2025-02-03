@@ -10,6 +10,6 @@ typedef struct
 
 Note * creerNote();
 void libererNote(Note * note);
-
+void SimulerNote(Note * note, int nb_notes);
 
 #endif
